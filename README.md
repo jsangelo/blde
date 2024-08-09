@@ -1,5 +1,7 @@
 # BLDE
 Differential Evolution for Bilevel Programming
+When using this code, please refer to 
+"J. S. Angelo, E. Krempser and H. J. C. Barbosa, "Differential evolution for bilevel programming," 2013 IEEE Congress on Evolutionary Computation, Cancun, Mexico, 2013, pp. 470-477, doi: 10.1109/CEC.2013.6557606."
 
 # Compile and create executable file
 g++ blde.cpp funcoes* -o blde.exe
